@@ -1,11 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2023-02-26T07:29:13.061Z" agent="5.0 (Linux; Android 9; Mi MIX 2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36" etag="AFSkGO-H8PVa3hn4066j" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-26T07:35:23.995Z" agent="5.0 (Linux; Android 9; Mi MIX 2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36" etag="7M4fxs96XWcn9eJUQZVQ" version="20.8.23" type="github">
   <diagram name="Sayfa -1" id="nlkpy8LWIew-ArmmSpb3">
-    <mxGraphModel dx="752" dy="670" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1157" dy="738" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="53bQCzHaPftQHxTx8_oJ-1" value="" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="311" y="-27" width="120" height="60" as="geometry" />
+          <mxGeometry x="519" y="-115" width="135" height="169" as="geometry" />
+        </mxCell>
+        <mxCell id="53bQCzHaPftQHxTx8_oJ-3" value="Person&lt;br&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="549" y="-107" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="53bQCzHaPftQHxTx8_oJ-4" value="İd:&lt;br&gt;Name&lt;br&gt;Surname&lt;br&gt;Phone number" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="549" y="-35" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="53bQCzHaPftQHxTx8_oJ-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="296" y="-115" width="160" height="171" as="geometry" />
+        </mxCell>
+        <mxCell id="53bQCzHaPftQHxTx8_oJ-6" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="53bQCzHaPftQHxTx8_oJ-1" target="53bQCzHaPftQHxTx8_oJ-5">
+          <mxGeometry width="120" relative="1" as="geometry">
+            <mxPoint x="392" y="-37" as="sourcePoint" />
+            <mxPoint x="479" y="-30" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="53bQCzHaPftQHxTx8_oJ-7" value="User" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="346" y="-120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="53bQCzHaPftQHxTx8_oJ-8" value="İd:&lt;br&gt;Username&lt;br&gt;Pasword" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="346" y="-69" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
